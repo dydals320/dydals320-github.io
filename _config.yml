@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "작은 과학 이야기"
+title                    : "Yongmin Cho"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "어느 공학자"
-description              : "."
+name                     : "Yongmin cho"
+description              : "Bioengineer Ph.D. at Harvard Mediccal School"
 url                      : "https://dydals320.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
