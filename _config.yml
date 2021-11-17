@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Yongmin Cho"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/personal/Yongmin Cho_HeadshotImage_.tif"
   bio              : >
     Postdoctral Fellow
     <br>
@@ -113,8 +113,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=sxX4h30AAAAJ&view_op=list_works&sortby=pubdate"
   linkedin         : "yongmin-cho"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+   # - label: "Email"
+   #   icon: "fas fa-fw fa-envelope-square"
       # url: "dydals320@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
