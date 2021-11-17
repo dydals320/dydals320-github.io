@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Yongmin Cho"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yongmin cho"
-description              : "Bioengineer Ph.D. at Harvard Mediccal School"
+name                     : "Dr. Yongmin cho"
+description              : "Postdoc. Department of Systems Biology at Harvard Medical School"
 url                      : "https://dydals320.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -102,15 +102,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yongmin Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a bioengineer"
-  location         : "Boston"
-  email            :
+  bio              : >
+    Postdoctral Fellow
+    <br>
+    Department of Systems Biology
+  location         : "Harvard Medical School"
+  email            : "dydals320@gmail.com"
+  linkedin         : "https://www.linkedin.com/in/yongmin-cho/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "dydals320@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
