@@ -110,11 +110,11 @@ author:
     Department of Systems Biology
   location         : "Harvard Medical School"
   email            : "dydals320@gmail.com"
-  linkedin         : "https://www.linkedin.com/in/yongmin-cho/"
+  linkedin         : "yongmin-cho"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "dydals320@gmail.com"
+      # url: "dydals320@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
