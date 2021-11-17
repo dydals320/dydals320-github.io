@@ -3,9 +3,11 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://dydals320.github.io/yongmin_cho/about/
+    url: '/about/
   - title: "Research"
-    url: /Research/
+    url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Blogs"
     url: /blogs/
   # - title: "Sitemap"
