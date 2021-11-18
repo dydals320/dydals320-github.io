@@ -108,10 +108,13 @@ author:
     Postdoctral Fellow
     <br>
     Department of Systems Biology
-  location         : "Harvard Medical School"
+    <br>
+    Harvard Medical School
+  location         : "Boston, MA"
   email            : "dydals320@gmail.com"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=sxX4h30AAAAJ&view_op=list_works&sortby=pubdate"
   linkedin         : "yongmin-cho"
+  github           : "dydals320"
   links:
    # - label: "Email"
    #   icon: "fas fa-fw fa-envelope-square"
