@@ -8,12 +8,12 @@ yongmin_cho:
     alt: "Yongmin Cho, Ph.D."
     title: "Yongmin Cho, Ph.D."
     excerpt: >
-      **Postdoctroal Fellow, Department of Systems Biology**<br>
+      **Postdoctroal Fellow** 
+      **Department of Systems Biology**
       **Harvard Medical School**
         <li>Postdoctoral Fellow, School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, 2017 - 2018</li>
         <li>Ph.D. School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, 2017</li>
-        <li>B.S. Department of Chemical and Biological Engineering , Seoul National University, 2012</li>
-        
+        <li>B.S. Department of Chemical and Biological Engineering , Seoul National University, 2012</li>    
 ---
 
 {% include yongmin_cho class="half" type="left" %}
