@@ -8,7 +8,7 @@ comments: true
 ---
 
 ## 2021
-D. W. Choi, Y. J. Roh, S. Kim, H. M. Lee, M. Kim, D. Shin, J. H. Park, __**Y. Cho**__, H. H. Park, Y. S. Ok, D. Kang, J. H. Kim, L. Tarrago, N. N. Danial, V. N. Gladyshev, P. K. Min, B. C. Lee, “Development of a novel fluorescent biosensor for dynamic monitoring of metabolic methionine redox status in cells and tissues”, _Biosensors and Bioelectronics_, 178, 113031
+D. W. Choi, Y. J. Roh, S. Kim, H. M. Lee, M. Kim, D. Shin, J. H. Park, __<b>Y. Cho</b>__, H. H. Park, Y. S. Ok, D. Kang, J. H. Kim, L. Tarrago, N. N. Danial, V. N. Gladyshev, P. K. Min, B. C. Lee, “Development of a novel fluorescent biosensor for dynamic monitoring of metabolic methionine redox status in cells and tissues”, _Biosensors and Bioelectronics_, 178, 113031
 
 ## 2020
 K. N. Le <sup>*</sup>, M. Zhan <sup>*</sup>, __**Y. Cho**__ <sup>*</sup>, J. Wan, D. S. Patel, and H. Lu, “An automated platform to monitor long-term behavior and healthspan in Caenorhabditis elegans under precise environmental control”, _Communications Biology_, 2020, 3(1), 1-13
