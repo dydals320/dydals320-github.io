@@ -16,4 +16,4 @@ yongmin_cho:
         
 ---
 
-{% include feature_row id="yongmin_cho" type="left" %}
+{% include feature_row id="yongmin_cho" type="left" class="third" %}
