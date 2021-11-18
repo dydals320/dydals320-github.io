@@ -3,7 +3,7 @@ title:  "Publications"
 layout: archive
 permalink: /publications/
 author_profile: false
-comments: true
+comments: false
 ---
 
 ## 2021
