@@ -13,7 +13,7 @@ comments: true
 ## 2020
 10. K. N. Le<sup>*</sup>, M. Zhan<sup>*</sup>, <u>**Y. Cho**</u><sup>*</sup>, J. Wan, D. S. Patel, and H. Lu, “An automated platform to monitor long-term behavior and healthspan in Caenorhabditis elegans under precise environmental control”, Communications Biology 
  
-9. __**Y. Cho**__<sup>*</sup>, S. A. Lee<sup>*</sup>, Y. L. Chew, K. Broderick, W. R. Schafer, and H. Lu, “Multimodal Stimulation in a Microfluidic Device Facilitates Studies of Interneurons in Sensory Integration in C. elegans”, Small (Selected as a cover article)
+9. __**Y. Cho**__ <sup>*</sup>, S. A. Lee<sup>*</sup>, Y. L. Chew, K. Broderick, W. R. Schafer, and H. Lu, “Multimodal Stimulation in a Microfluidic Device Facilitates Studies of Interneurons in Sensory Integration in C. elegans”, Small (Selected as a cover article)
 
 ## 2018
 8. Y. L. Chew, Y. Tanizawa, Y. Cho, B. Zhao, A. J. Yu, S. Ahn, C. Rankin, Y. J. You, H. Lu, I. Beets, and W. R. Schafer, “An Afferent Neuropeptide System Transmits Mechanosensory Signals Triggering Sensitization and Arousal in C. elegans”, Neuron, 2018, 99 (6), 1233-1246. 
