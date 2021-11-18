@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : true
+search                   : # 
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -105,10 +105,8 @@ author:
   name             : "Yongmin Cho"
   avatar           : "/assets/images/people/YongminCho_Profile.png"
   bio              : >
-    Postdoctral Fellow
-    <br>
-    Department of Systems Biology
-    <br>
+    Postdoctral Fellow<br>
+    Department of Systems Biology<br>
     Harvard Medical School
   location         : "Boston, MA"
   email            : "dydals320@gmail.com"
