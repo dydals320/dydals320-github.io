@@ -13,3 +13,7 @@ yongmin_cho:
         <li>Postdoctoral Fellow, School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, 2017 - 2018</li>
         <li>Ph.D. School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, 2017</li>
         <li>B.S. Department of Chemical and Biological Engineering , Seoul National University, 2012</li>
+        
+---
+
+{% include feature_row id="yongmin_cho" type="left" %}
