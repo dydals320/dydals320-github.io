@@ -6,7 +6,7 @@ categories: pages
 yongmin_cho:
   - image_path: /assets/images/people/YongminCho_Profile.png
     alt: "Yongmin Cho, Ph.D."
-    title: "Yongmin Cho"
+    title: "Yongmin Cho, Ph.D."
     excerpt: >
       **Postdoctroal Fellow, Department of Systems Biology**<br>
       **Harvard Medical School**
