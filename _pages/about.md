@@ -16,4 +16,4 @@ yongmin_cho:
         <li>B.S. Department of Chemical and Biological Engineering , Seoul National University, 2012</li>    
 ---
 
-{% include yongmin_cho class="half" type="left" %}
+{% include feature_row id=yongmin_cho class="half" type="left" %}
