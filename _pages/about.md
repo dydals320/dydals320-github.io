@@ -1,7 +1,7 @@
 ---
+permalink: /
 title:  "About"
 layout: splash
-permalink: /
 categories: pages
 yongmin_cho:
   - image_path: /assets/images/people/YongminCho_Profile.png
