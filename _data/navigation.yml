@@ -1,14 +1,14 @@
 # main links
-main:
-  - title: "About Me"
-    url: /about/
-    
+main:  
   - title: "Research"
     url: /research/
     
   - title: "Publications"
     url: /publications/
-    
-  - title: "Blogs"
-    url: /blogs/
+  
+  - title: "Teaching"
+    url: /teaching/
+  
+  - title: "Codes"
+    url: /codes/
   
