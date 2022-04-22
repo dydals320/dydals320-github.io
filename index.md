@@ -11,6 +11,9 @@ header:
 ## About me
 
 I'm currently working as a postdoctoral fellow at Harvard Medical School. 
+<!--
+*My research focuses on the development of integrated microsystems that allow high-content, high-throughput neuronal imaging and longitudinal phenotypic profiling in model organisms including C. elegans and Daphnia magna. Leveraging a wide range of technologies such as microfluidics, image processing, automation, and Machine learning, I strives to study 
+-->
 
 
 ## Education
