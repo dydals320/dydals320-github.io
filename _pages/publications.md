@@ -7,6 +7,11 @@ author_profile: false
 comments: true
 ---
 
+## 2022
+__<b>Y. Cho</b>__, R. A. Jonas-Closs, Lev. Y. Yampolsky, M. W. Kirschner, and L. Peshkin, “Intelligent high-throughput intervention testing platform in Daphnia”, Aging Cell, 2022, DOI: 10.1111/acel.13571 [🔗](https://onlinelibrary.wiley.com/doi/10.1111/acel.13571)
+
+C. E. Anderson, M. N. Ekwudo, R. A. Jonas-Closs, __<b>Y. Cho</b>__, L. M. Peshkin, M. W. Kirschner, and L. Y. Yampolsky, “Lack of Age-related Respiratory Changes in Daphnia”, Biogerontology, 2022, DOI: 10.1007/s10522-021-09947-6 [🔗](https://link.springer.com/article/10.1007/s10522-021-09947-6)
+
 ## 2021
 D. W. Choi, Y. J. Roh, S. Kim, H. M. Lee, M. Kim, D. Shin, J. H. Park, __<b>Y. Cho</b>__, H. H. Park, Y. S. Ok, D. Kang, J. H. Kim, L. Tarrago, N. N. Danial, V. N. Gladyshev, P. K. Min, B. C. Lee, “Development of a novel fluorescent biosensor for dynamic monitoring of metabolic methionine redox status in cells and tissues”, _Biosensors and Bioelectronics_, 178, 113031 [🔗](https://www.sciencedirect.com/science/article/pii/S0956566321000671)
 
