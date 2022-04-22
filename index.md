@@ -11,9 +11,6 @@ header:
 
 I'm currently working as a postdoctoral fellow at Harvard Medical School. 
 
-*I have trained at the interface of engineering and biology. 
-My research training have been focused on the development of novel technologies for high-throughput and quantitative measurements of biological events.*
-
 
 ## Education
 
