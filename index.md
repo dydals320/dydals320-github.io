@@ -11,10 +11,9 @@ header:
 # About me
 
 I'm currently working as a postdoctoral fellow at Harvard Medical School. 
----
 
 *I have trained at the interface of engineering and biology. 
-My research training have been focused on the development of novel technologies for high-throughput and quantitative measurements of biological events. 
+My research training have been focused on the development of novel technologies for high-throughput and quantitative measurements of biological events.*
 
 
 ## Education
@@ -23,7 +22,6 @@ My research training have been focused on the development of novel technologies 
  
 - B.S. in Department of Chemical and Biological Engineering at Seoul National University
 
----
 
 ## CV
 
