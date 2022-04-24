@@ -3,6 +3,6 @@ title:  "Codes"
 layout: single
 classes: wide
 permalink: /codes/
-author_profile: false
+author_profile: true
 comments: true
 ---
