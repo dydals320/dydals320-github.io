@@ -3,7 +3,7 @@ title:  "Publications"
 layout: single
 classes: wide
 permalink: /publications/
-author_profile: false
+author_profile: true
 comments: true
 ---
 
