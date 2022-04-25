@@ -1,6 +1,6 @@
 ---
 title: Yongmin Cho
-layout: single
+layout: wide
 author_profile: false
 excerpt: 'Develop new tools and technologies to address elusive biological questions from a quantitative, systems-level perspective'
 header:
