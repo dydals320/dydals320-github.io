@@ -4,7 +4,6 @@ layout: single
 classes: wide
 permalink: /cv/
 author_profile: true
-comments: false
 ---
 
 ## EDUCATION
