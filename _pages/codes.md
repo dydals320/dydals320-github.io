@@ -20,8 +20,7 @@ A custom MATLAB script that extracts various behavioral and morphological featur
 <a href="https://www.kaggle.com/competitions/daphniacounter"><p style="text-align:center">Data Set</p></a>
 
 
-
-## [Automated Imaging Platform GUI [:link:](https://github.com/dydals320/DaphniaBehAnalysis)
+<a href="https://github.com/dydals320/DaphniaBehAnalysis"<h2>Automated Imaging Platform GUI</h2></a>
 
 #### Reference paper
 __<b>Y. Cho</b>__, R. A. Jonas-Closs, Lev. Y. Yampolsky, M. W. Kirschner, and L. Peshkin, “Intelligent high-throughput intervention testing platform in Daphnia”, Aging Cell, 2022, DOI: 10.1111/acel.13571 [:link:](https://onlinelibrary.wiley.com/doi/10.1111/acel.13571)
