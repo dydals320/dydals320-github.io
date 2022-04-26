@@ -17,7 +17,9 @@ A custom MATLAB script that extracts various behavioral and morphological featur
 
 </p>
 
-<a href="https://www.kaggle.com/competitions/daphniacounter"><p style="text-align:center">Data Set</p></a>
+<a href="https://www.kaggle.com/competitions/daphniacounter">
+  <p style="text-align:center">Data Set</p>
+</a>
 
 
 <a href="https://github.com/dydals320/DaphniaBehAnalysis"<h2>Automated Imaging Platform GUI</h2></a>
