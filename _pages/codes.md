@@ -4,7 +4,6 @@ layout: single
 classes: wide
 permalink: /codes/
 author_profile: true
-comments: true
 ---
 
 ## [A computer vision algorithm for extracting quantitative phenotypes](https://github.com/dydals320/DaphniaBehAnalysis)
