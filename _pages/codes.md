@@ -6,7 +6,7 @@ permalink: /codes/
 author_profile: true
 ---
 
-## A computer vision algorithm for extracting quantitative phenotypes [Link](https://github.com/dydals320/DaphniaBehAnalysis)
+## A computer vision algorithm for extracting quantitative phenotypes [:link:](https://github.com/dydals320/DaphniaBehAnalysis)
 A custom MATLAB script that extracts various behavioral and morphological features to track phenotypic changes during the aging process. Briefly, we performed background subtraction and image segmentation to identify and determine the location of live individuals
 
 
@@ -16,12 +16,12 @@ A custom MATLAB script that extracts various behavioral and morphological featur
 </p>
 
 <div align='center'>
-Data set [🔗](https://www.kaggle.com/competitions/daphniacounter)
+Data set [:link:](https://www.kaggle.com/competitions/daphniacounter)
 </div>
 
 
 
-## [Automated Imaging Platform GUI [Link](https://github.com/dydals320/DaphniaBehAnalysis)
+## [Automated Imaging Platform GUI [:link:](https://github.com/dydals320/DaphniaBehAnalysis)
 
 #### Reference paper
-__<b>Y. Cho</b>__, R. A. Jonas-Closs, Lev. Y. Yampolsky, M. W. Kirschner, and L. Peshkin, “Intelligent high-throughput intervention testing platform in Daphnia”, Aging Cell, 2022, DOI: 10.1111/acel.13571 [Link](https://onlinelibrary.wiley.com/doi/10.1111/acel.13571)
+__<b>Y. Cho</b>__, R. A. Jonas-Closs, Lev. Y. Yampolsky, M. W. Kirschner, and L. Peshkin, “Intelligent high-throughput intervention testing platform in Daphnia”, Aging Cell, 2022, DOI: 10.1111/acel.13571 [:link:](https://onlinelibrary.wiley.com/doi/10.1111/acel.13571)
