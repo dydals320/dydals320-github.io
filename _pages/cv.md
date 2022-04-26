@@ -15,9 +15,9 @@ Discontinued Attendance: 2-year mandatory military service in South Korea (2007 
 
 ## POSITIONS AND EMPLOYMENT
 - Postdoctoral Fellow, Department of Systems Biology (2018 – Present) <br>
-Harvard Medical School (Advisor: Dr. Marc W. Kirschner)
+Harvard Medical School (Advisor: Dr. Marc W. Kirschner) [Kirschner Lab](https://kirschner.hms.harvard.edu/)
 - Postdoctoral Fellow, School of Chemical and Biomolecular Engineering (2017 – 2018) <br>
-Georgia Institute of Technology (Advisor: Dr. Hang Lu)
+Georgia Institute of Technology (Advisor: Dr. Hang Lu) [Lu Lab](https://www.lulab.gatech.edu/)
 - Trader, GS Caltex (Petroleum refining company), South Korea (2011 – 2012) <br>
 
 ## TEACHING EXPERIENCE
@@ -65,7 +65,7 @@ Georgia Institute of Technology (Advisor: Dr. Hang Lu)
 - Serve as an editor and a reviewer at *Journal of Emerging Investigators*
 
 ## PUBLICATIONS
-### A. Refereed Journal Publications [* co-first author]
+#### A. Refereed Journal Publications [* co-first author]
 15. 	A. V. Shindyapina, Y. Cho, A. Kaya, A. Tyshkovskiy, J. P. Castro, J. Gordevicius, J. R. Poganik, S. Horvath, L. Peshkin, V. N. Gladyshev, “Rapamycin treatment during development extends lifespan and healthspan”. BioRxiv, DOI: 10.1101/2022.02.18.481092 (Under revision in Advanced Science)
 14. 	C. E. Anderson, M. C. Malek, R. A. Jonas-Closs, Y. Cho, L. Peshkin, M. W. Kirschner, and L. Y. Yampolsky, “Inverse Lansing effect: maternal age and provisioning affecting daughters’ longevity and male offspring production”. (Under revision in American Naturalist)
 13. 	Y. Cho, R. A. Jonas-Closs, Lev. Y. Yampolsky, M. W. Kirschner, and L. Peshkin, “Intelligent high-throughput intervention testing platform in Daphnia”, Aging Cell, 2022, DOI: 10.1111/acel.13571
@@ -82,7 +82,7 @@ Georgia Institute of Technology (Advisor: Dr. Hang Lu)
 2.	J. Nam, W. La, S. Hwang, Y. S. Ha, N. Park, N. Won, S. Jung, S. H. Bhang, Y. Ma, Y. Cho, M. Jin, J. Han, J. Shin, E. KyungWang, S. G. Kim, S. Cho, J. Yoo, B. Kim, S. Kim, “pH-Responsive Assembly of Gold Nanoparticles and “Spatiotemporally Concerted” Drug Release for Synergistic Cancer Therapy”, ACS Nano, 2013, 7 (4), 3388–3402, DOI: 10.1021/nn400223a
 1.	H. S. Yang*, W. La*, Y. Cho, W. Shin, G. Yeo, B. Kim, “Comparison between heparin-conjugated fibrin and collagen sponge as bone morphogenetic protein-2 carrier for bone regeneration”, Experimental and Molecular Medicine, 2012, 44, 350-355, DOI: 10.3858/emm.2012.44.5.039
 
-### B. Refereed Conference Publications
+#### B. Refereed Conference Publications
 4. 	Y. Cho, S. A. Lee, D. N. Oakland, and H. Lu “Microfluidic-based imaging platforms for mechanosensation in C. elegans larvae”, 21st International Conference on Miniaturized Systems for Chemistry and Life Sciences (MicroTAS), Savannah, GA, USA 2017
 3.	Y. Cho, D. A. Porto, H. Hwang, L. J. Grundy, W. R. Schafer, and H. Lu “Microfluidics for neuronal functional imaging of multi-modal stimulation.”, C. elegans Neuro meeting
 2. 	Y. Cho, H. Hwang, D. Porto, and H. Lu, “Microfluidic systems for high-throughput functional imaging of mechanosensing neurons in Caenorhabditis elegans”, the Proceedings of the 19th International Conference on Miniaturized Systems for Chemistry and Life Sciences (MicroTAS), Gyueongju, Korea, 2015 
