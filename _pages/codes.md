@@ -16,7 +16,7 @@ A custom MATLAB script that extracts various behavioral and morphological featur
 </p>
 
 <h4 align="center">
-  [Data set][🔗](https://www.kaggle.com/competitions/daphniacounter)
+  Data set [🔗](https://www.kaggle.com/competitions/daphniacounter)
 </h4>
 
 
