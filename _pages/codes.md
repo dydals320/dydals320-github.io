@@ -13,11 +13,10 @@ A custom MATLAB script that extracts various behavioral and morphological featur
 <h4 align="center">Data Example</h4>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51148581/122502031-d1c73d80-cfc3-11eb-8236-835515342782.gif" alt="animated" />
+
 </p>
 
-<div align='center'>
-Data set [:link:](https://www.kaggle.com/competitions/daphniacounter)
-</div>
+[:link:](https://www.kaggle.com/competitions/daphniacounter)
 
 
 
