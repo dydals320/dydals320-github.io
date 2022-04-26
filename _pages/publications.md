@@ -30,7 +30,7 @@ T. Rouse, G. Aubry, __Y. Cho__, M. Zimmer and H. Lu, “A programmable platform 
 ## 2017
 __Y. Cho__<sup>+</sup>, D. A. Porto<sup>+</sup>, H. Hwang, L. J. Grundy, W. R. Schafer, and H. Lu, “Automated and controlled mechanical stimulation and functional imaging in vivo in C. elegans”, _Lab on a chip_, 2017, 17, 2609-2618 [🔗](https://pubs.rsc.org/en/content/articlelanding/2017/lc/c7lc00465f)
 
-__Y. Cho__, C. Zhao, and H. Lu. “Trends in High-throughput and Functional Neuroimaging in _C. elegans_”, _WIREs Systems Biology and Medicine_, 2017, e01376 [🔗]https://wires.onlinelibrary.wiley.com/doi/10.1002/wsbm.1376
+__Y. Cho__, C. Zhao, and H. Lu. “Trends in High-throughput and Functional Neuroimaging in _C. elegans_”, _WIREs Systems Biology and Medicine_, 2017, e01376 [🔗](https://wires.onlinelibrary.wiley.com/doi/10.1002/wsbm.1376)
 
 ## 2014
 D. A. F. de Abreu, A. Caballero, P. Fardel, N. Stroustrup, Z. Chen, K. Lee, W. D. Keyes, Z. M. Nash, I. F. Lo´ pez-Moyado, F. Vaggi, A. Cornils, M. Regenass, A. Neagu, I. Ostojic, C. Liu, __Y. Cho__, D. Sifoglu, Y. Shen, W. Fontana, H. Lu, A. Csikasz-Nagy, C. T. Murphy, A. Antebi, E. Blanc, J. Apfeld, Y. Zhang, J. Alcedo, Q. Ch’ng, “An Insulin-to-Insulin Regulatory Network Orchestrates Phenotypic Specificity in Development and Physiology”, _PLOS Genetics_, 2014, 10 (3) [🔗](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004225)
