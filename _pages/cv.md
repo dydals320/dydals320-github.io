@@ -17,7 +17,7 @@ Discontinued Attendance: 2-year mandatory military service in South Korea (2007 
 - Postdoctoral Fellow, Department of Systems Biology (2018 – Present) <br>
 Harvard Medical School (Advisor: Dr. Marc W. Kirschner) [Kirschner Lab](https://kirschner.hms.harvard.edu/)
 - Postdoctoral Fellow, School of Chemical and Biomolecular Engineering (2017 – 2018) <br>
-Georgia Institute of Technology (Advisor: Dr. Hang Lu) [Lu Lab](https://www.lulab.gatech.edu/)
+Georgia Institute of Technology (Advisor: Dr. Hang Lu) [Lu Lab](www.lulab.gatech.edu/)
 - Trader, GS Caltex (Petroleum refining company), South Korea (2011 – 2012) <br>
 
 ## TEACHING EXPERIENCE
