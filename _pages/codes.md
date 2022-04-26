@@ -5,8 +5,9 @@ classes: wide
 permalink: /codes/
 author_profile: true
 ---
-
-## A computer vision algorithm for extracting quantitative phenotypes [:link:](https://github.com/dydals320/DaphniaBehAnalysis)
+<a href="https://github.com/dydals320/DaphniaBehAnalysis">
+  <h2>A computer vision algorithm for extracting quantitative phenotypes</h2>  
+</a>
 A custom MATLAB script that extracts various behavioral and morphological features to track phenotypic changes during the aging process. Briefly, we performed background subtraction and image segmentation to identify and determine the location of live individuals
 
 
@@ -16,7 +17,7 @@ A custom MATLAB script that extracts various behavioral and morphological featur
 
 </p>
 
-[:link:](https://www.kaggle.com/competitions/daphniacounter)
+<a href="https://www.kaggle.com/competitions/daphniacounter"><p style="text-align:center">Data Set</p></a>
 
 
 
