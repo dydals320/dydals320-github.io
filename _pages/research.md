@@ -5,3 +5,5 @@ classes: wide
 permalink: /research/
 author_profile: true
 ---
+
+<a href="dydals320.github.io/assets/image/research/ResearchSummary _v2.1.pdf" target="_blank">PDF.</a>
