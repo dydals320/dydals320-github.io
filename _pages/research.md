@@ -6,4 +6,6 @@ permalink: /research/
 author_profile: true
 ---
 
-![Research Summary](/dydals320.github.io/assets/image/research/ResearchSummary_v2.png)
+![Research Summary](/assets/images/research/ResearchSummary_v2.png)
+
+
