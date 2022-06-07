@@ -6,4 +6,4 @@ permalink: /research/
 author_profile: true
 ---
 
-<a href="dydals320.github.io/assets/image/research/ResearchSummary _v2.1.pdf" class="image fit" type="application/pdf" /></a>
+![Research Summary](/assets/image/research/ResearchSummary_v2.png)
