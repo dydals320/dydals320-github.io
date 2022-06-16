@@ -8,6 +8,6 @@ author_profile: true
 
 I conduct research at the interface of biology and engineering to create and apply new tools to understand complex biological systems and develop new pharmacological therapies. 
 
-![Research Summary](/assets/images/research/ResearchSummary_v2.1.png)
+![Research Summary](/assets/images/research/ResearchSummary.png)
 
 
