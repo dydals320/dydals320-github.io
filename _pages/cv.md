@@ -55,13 +55,16 @@ Georgia Institute of Technology (Advisor: Dr. Hang Lu) [Lu Lab](www.lulab.gatech
   *	Conduct a project on Pressure Sensitive Adhesives (PSA)
 
 ## AWARDS/FELLOWSHIPS
+- UKC 2022 Fellow, Korea-American Scientist and Engineering Association (2022)
+- SEED Outstanding Presentation Award, Korea-American Scientist and Engineering Association (2022)
+- KASBP Fellowship Award, Korean American Society in Biotech and Pharmaceuticals (2022)
 - CBMS Student/Young Researcher Grant, MicroTAS International Conference (2015)
 - Best Student Research Paper Awards, Seoul National University (2011)
 - National Scholarship For Science and Engineering, Korea Student Aid Foundation (2005 – 2011)
   * *Covered the entire 4-year university tuitions*
 
 ## PROFESSIONAL SERVICE
-- Serve as a Journal reviewer at *Lab on a chip* and *STAR Protocols*
+- Serve as a Journal reviewer at *Lab on a chip*, *Environmental Research*, *Journal of Industrial and Engineering Chemistry*, and *STAR Protocols*
 - Serve as an editor and a reviewer at *Journal of Emerging Investigators*
 
 ## PUBLICATIONS
@@ -90,17 +93,24 @@ Georgia Institute of Technology (Advisor: Dr. Hang Lu) [Lu Lab](www.lulab.gatech
 
 
 ## PRESENTATIONS
-12.	“An engineering approach to Systems biology - microfluidics, automation, and machine learning”, Seminar for 	Energy and Environmental Process, Oral presentation, Sogang University, South Korea, December 2020, (Online 	seminar).
-11.	“Microfluidic-based imaging platforms for mechanosensation in C. elegans larvae”, 21st International Conference 	on Miniaturized Systems for Chemistry and Life Sciences, Oral presentation, Savannah, GA, Oct. 2017.
-10.	“Microfluidic devices for high-throughput in vivo imaging of neuronal responses to mechanical stimulation in C. 	elegans from larvae to adults”, Gordon Research Conference, Physics and Chemistry of Microfluidics, Poster 	presentation, Barga, Italy, June 2017.
-9.	“Microfluidics for neuronal functional imaging of multi-modal stimulation.”, C. elegans Neuro meeting, Oral 	presentation, Nagoya, Japan, 2016
-8.	“Microfluidic Systems for High-Throughput Functional Imaging of Mechanosensing Neurons in Caenorhabitis 	Elegans.”, Neuro Student Seminar, Oral presentation, Georgia Tech, Atlanta, 2016
-7. 	“Microfluidic Systems for High-Throughput Functional Imaging of Mechanosensing Neurons in Caenorhabitis 	Elegans.”, Worm Club, Oral presentation, Emory University, Atlanta, 2016
-6.	“Microfluidic Systems for High-Throughput Functional Imaging of Mechanosensing Neurons in Caenorhabitis 	Elegans.”, AIChE annual meeting, Oral presentation, Salt Lake City, 2015.
-5. 	“Automatic long-term individual tracking microfluidic platform for healthspan and longevity in Caenorhabditis 	elegans.”, AIChE annual meeting, Oral presentation, Salt Lake City, 2015.
-4. 	“Can you use a microfluidic system for long-term observation of behavior?”, Oral presentation, International C. 	elegans meeting, Los Angeles, 2015
-3. 	“Microfluidic Systems for High-Throughput Functional Imaging of Mechanosensing Neurons in Caenorhabitis 	Elegans.” Oral presentation. MicroTAS, South Korea, 2015
-2. 	“Automatic long-term microfluidic platform for individual tracking of healthspan and longevity of Caenorhabditis 	elegans.” Poster presentation, MicroTAS, South Korea, 2015
-1. 	“Automated Microfluidic Platforms for Individually Cultured Nematodes and Neuronal Activity Measurement.” 	Oral presentation, AIChEAnuualMeeting, Atlanta, 2014
+A. Invited Talks
+2.	“An engineering approach to Systems biology - microfluidics, automation, and machine learning”, Trends  in Biological  Research, UNIST, South Korea, October 2022, (Online seminar).
+1.	“An engineering approach to Systems biology - microfluidics, automation, and machine learning”, Seminar for Energy and Environmental Process, Sogang University, South Korea, December 2020, (Online seminar).
+
+B. Selected Oral Presentations
+13.	“Intelligent High-Throughput Intervention Testing Platform in Daphnia” 2022 AIChE, Phoenix AZ, 2022
+12.	“Quantitative Strategy for Anti-Aging Drug Discovery using an Intelligent High-Throughput Intervention Testing Platform” 2022 BMES, San Antonio TX, 2022
+11. 	“Intelligent High-Throughput Intervention Testing Platform in a New Model System” SEED 2022, Arlington VA, August. 2022 (Outstanding Presentation Awards)
+
+10.	“An Intelligent High-Throughput Intervention Testing Platform in Daphnia” 2022 KASBP eSymposium Jun 2022, (Online Symposium)
+9.	“Microfluidic-based imaging platforms for mechanosensation in C. elegans larvae”, 21st International Conference on Miniaturized Systems for Chemistry and Life Sciences, Savannah, GA, 2017.
+8.	“Microfluidics for neuronal functional imaging of multi-modal stimulation.”, C. elegans Neuro meeting, Nagoya, Japan, 2016
+7.	“Microfluidic Systems for High-Throughput Functional Imaging of Mechanosensing Neurons in C. elegans.”, Neuro Student Seminar, Georgia Tech, Atlanta, 2016
+6. 	“Microfluidic Systems for High-Throughput Functional Imaging of Mechanosensing Neurons in C. elegans.”, Worm Club, Emory University, Atlanta, 2016
+5.	“Microfluidic Systems for High-Throughput Functional Imaging of Mechanosensing Neurons in C. elegans.”, AIChE Annual Meeting, Salt Lake City, 2015.
+4. 	“Automatic long-term individual tracking microfluidic platform for healthspan and longevity in C. elegans.”, AIChE Annual Meeting, Salt Lake City, 2015.
+3. 	“Can you use a microfluidic system for long-term observation of behavior?”, International C. elegans meeting, Los Angeles, 2015
+2. 	“Microfluidic Systems for High-Throughput Functional Imaging of Mechanosensing Neurons in C. elegans.” MicroTAS, South Korea, 2015 (CBMS Student/Young Researcher Grant)
+1. 	“Automated Microfluidic Platforms for Individually Cultured Nematodes and Neuronal Activity Measurement.” AIChE Annual Meeting, Atlanta, 2014
 
 
