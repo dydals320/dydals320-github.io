@@ -8,7 +8,7 @@ comments: true
 ---
 
 ## 2022
-C. E. Anderson, M. C. Malek, R. A. Jonas-Closs, _<b>Y. Cho</b>__, L. Peshkin, M. W. Kirschner, and L. Y. Yampolsky, “Inverse Lansing effect: maternal age and provisioning affecting daughters’ longevity and male offspring production”. American Naturalist, 2022, DOI: 10.1086/721148 [🔗](https://www.journals.uchicago.edu/doi/10.1086/721148)
+C. E. Anderson, M. C. Malek, R. A. Jonas-Closs, __<b>Y. Cho</b>__, L. Peshkin, M. W. Kirschner, and L. Y. Yampolsky, “Inverse Lansing effect: maternal age and provisioning affecting daughters’ longevity and male offspring production”. American Naturalist, 2022, DOI: 10.1086/721148 [🔗](https://www.journals.uchicago.edu/doi/10.1086/721148)
 
 A. V. Shindyapina, __<b>Y. Cho</b>__, A. Kaya, A. Tyshkovskiy, J. P. Castro, A. Deik, J. Gordevicius, J. R. Poganik, C. B. Clish, S. Horvath, L. Peshkin, V. N. Gladyshev, “Rapamycin treatment during development extends lifespan and healthspan of male mice and Daphnia magna”. Science Advances, 2022, DOI: 10.1126/sciadv.abo5482 [🔗](https://www.science.org/doi/10.1126/sciadv.abo5482)
 
