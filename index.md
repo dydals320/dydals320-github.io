@@ -25,9 +25,9 @@ I'm currently working as a postdoctoral fellow at Harvard Medical School.
 
 ## CV
 
-Find attached the PDF version of my CVs: [CV]({{ site.url }}/files/CV_Yongmin Cho_2022_JobApplication.pdf)  
+Find attached the PDF version of my CVs: [CV]({{ site.url }}/files/CV_Yongmin Cho_221101.pdf)  
 
-Update: 2022/01
+Update: 2022/11
 
 ## Contact me
 
