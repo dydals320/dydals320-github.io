@@ -93,11 +93,11 @@ Georgia Institute of Technology (Advisor: Dr. Hang Lu) [Lu Lab](www.lulab.gatech
 
 
 ## PRESENTATIONS
-A. Invited Talks
+#### A. Invited Talks
 2.	“An engineering approach to Systems biology - microfluidics, automation, and machine learning”, Trends  in Biological  Research, UNIST, South Korea, October 2022, (Online seminar).
 1.	“An engineering approach to Systems biology - microfluidics, automation, and machine learning”, Seminar for Energy and Environmental Process, Sogang University, South Korea, December 2020, (Online seminar).
 
-B. Selected Oral Presentations
+#### B. Selected Oral Presentations
 13.	“Intelligent High-Throughput Intervention Testing Platform in Daphnia” 2022 AIChE, Phoenix AZ, 2022
 12.	“Quantitative Strategy for Anti-Aging Drug Discovery using an Intelligent High-Throughput Intervention Testing Platform” 2022 BMES, San Antonio TX, 2022
 11. 	“Intelligent High-Throughput Intervention Testing Platform in a New Model System” SEED 2022, Arlington VA, August. 2022 (Outstanding Presentation Awards)
