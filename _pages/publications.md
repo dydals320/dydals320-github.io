@@ -8,6 +8,10 @@ comments: true
 ---
 
 ## 2022
+C. E. Anderson, M. C. Malek, R. A. Jonas-Closs, Y. Cho, L. Peshkin, M. W. Kirschner, and L. Y. Yampolsky, “Inverse Lansing effect: maternal age and provisioning affecting daughters’ longevity and male offspring production”. American Naturalist, 2022, DOI: 10.1086/721148 [🔗](https://www.journals.uchicago.edu/doi/10.1086/721148))
+
+A. V. Shindyapina, __<b>Y. Cho</b>__, A. Kaya, A. Tyshkovskiy, J. P. Castro, A. Deik, J. Gordevicius, J. R. Poganik, C. B. Clish, S. Horvath, L. Peshkin, V. N. Gladyshev, “Rapamycin treatment during development extends lifespan and healthspan of male mice and Daphnia magna”. Science Advances, 2022, DOI: 10.1126/sciadv.abo5482 [🔗](https://www.science.org/doi/10.1126/sciadv.abo5482)
+
 __<b>Y. Cho</b>__, R. A. Jonas-Closs, Lev. Y. Yampolsky, M. W. Kirschner, and L. Peshkin, “Intelligent high-throughput intervention testing platform in Daphnia”, Aging Cell, 2022, DOI: 10.1111/acel.13571 [🔗](https://onlinelibrary.wiley.com/doi/10.1111/acel.13571)
 
 C. E. Anderson, M. N. Ekwudo, R. A. Jonas-Closs, __<b>Y. Cho</b>__, L. M. Peshkin, M. W. Kirschner, and L. Y. Yampolsky, “Lack of Age-related Respiratory Changes in Daphnia”, Biogerontology, 2022, DOI: 10.1007/s10522-021-09947-6 [🔗](https://link.springer.com/article/10.1007/s10522-021-09947-6)
