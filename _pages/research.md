@@ -16,5 +16,7 @@ Most of my work heavily relies on the development of microfluidic approaches, wh
 Currently, I am developing a microfluidic-based cell sorting platform to enrich rare senescence cells based on their morphological and physiological characteristics. 
 
 #### Computer Vision
-Most of our work relies on quantitative analysis of image-based readouts. To take advantage of images, I have extracted biological meaningful behavioral and morphological features to build a phenotypic profile that is able to describe the healthy state of animals. To do this, I have developed custom image processing algorithms based on both traditional and deep learning approaches. 
+Most of my work relies on quantitative analysis of image-based readouts. To take advantage of images, I have extracted biological meaningful behavioral and morphological features to build a phenotypic profile that is able to describe the healthy state of animals. To do this, I have developed custom image processing algorithms based on both traditional and deep learning approaches. 
 
+#### Machine Learning
+To predict the healthy state of animals using the extracted phenotypic profiles, I used the machine learning approach. For example, in Daphnia, I built a ML model to estimate animals' phenotypic age and use it to evaluate the efficacy of various drugs and chemicals. 
